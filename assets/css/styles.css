@@ -17,6 +17,11 @@ font-sizee: 3em;
 	height: 400px;
 }
 
+.backgroundImage:hover {
+	backgroubd-image: url(../img/clock.png);
+	cursor: crosshair; 
+}
+
 body{
 	margin: 100px auto;
 	width: 50%;
