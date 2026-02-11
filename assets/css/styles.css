@@ -4,6 +4,12 @@
 	font-family: Arial;
 }
 
+.italianno-regular, h1 {
+  font-family: "Italianno", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
 body{
 	margin: 100px auto;
 	width: 50%;
